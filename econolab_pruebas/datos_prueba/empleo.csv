@@ -1,0 +1,11 @@
+﻿Country,AÑO ,unemployment_rate,country_code,period_type,extra_field,all_blank
+España,2020,15.5,724,annual,x,
+España,2021,"14,8",724,annual,x,
+España,2022-Q4,12.9,724,quarterly,q4,
+Estados Unidos,2020,8.1%,840,annual,x,
+Estados Unidos,2021,5.4,840,annual,x,
+Alemania,2022,"3,1",276,annual,x,
+Brasil,2023,12.4,76,annual,x,
+Brasil,2023,12.4,76,annual,x,
+España,2024,-2.0,724,annual,revisar,
+,,,,,,
